@@ -1,0 +1,51 @@
+{
+    "name": "Algomation",
+    "description": "Code Monkey and Creator of Algomation",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19944-algomation.jpg",
+    "tags": [
+        "algorithms",
+        "api provider",
+        "have api",
+        "no api",
+        "profile"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/algomation\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Algomation",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19944-algomation.jpg",
+            "humanURL": "http:\/\/www.algomation.com\/search",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/algomation-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/algomation"
+        },
+        {
+            "type": "Documentation",
+            "url": "http:\/\/www.algomation.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/duncanmeech"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.algomation.com\/search"
+        }
+    ]
+}
